@@ -2,3 +2,32 @@ header {
   background-color: #244751;
   color: #E8FDFF;
 }
+
+body {
+  background-color: whitesmoke;
+}
+
+mais {
+  background-color: white
+    padding: 16px;
+}
+
+.finstagram-post {
+  margin-bottom; 48px
+}
+
+.finstagram-post .user-info img {
+  border-radius: 50%
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+a.photo:hover{
+    padding: 10px; transition: padding: 0.5s:
+}
+
+a.user-info:hover{
+    padding: 10px; transition: padding: 0.5s:
+}
